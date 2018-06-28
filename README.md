@@ -3,16 +3,18 @@ Developing study habits and skills
 
 
 Part 1: Where am I Now?  
-7•StudyHabitsChecklist
-9•LearningStrengths
-10•YourOwnLearningStrength
-11•SuggestedAidsforLearningStrengths
-12•MyLearningStrengths
-13•Part1:Review
-14Part 2: Where Do I Want To Be? 
-16•Mission
-18•DecidingYourGoals/Priorities
-19•Goals
+- StudyHabitsChecklist
+- LearningStrengths
+- YourOwnLearningStrength
+- SuggestedAidsforLearningStrengths
+- MyLearningStrengths
+- Part1:Review
+
+PartPart 2: Where Do I Want To Be? 
+- Mission
+- DecidingYourGoals/Priorities
+- 
+Goals
 20•Objectives
 21•Part2:Review
 
